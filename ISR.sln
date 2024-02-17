@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISR.Core", "ISR.Core\ISR.Core.csproj", "{72629DEC-016B-4612-87BD-D4AD2EE0AEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISR.App", "ISR.App\ISR.App.csproj", "{F77931D2-6F77-44E4-AE69-3FAA75CAFC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISR.Test", "ISR.Test\ISR.Test.csproj", "{7223EA25-DCDB-4CCF-A473-5D7A1FF82581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72629DEC-016B-4612-87BD-D4AD2EE0AEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72629DEC-016B-4612-87BD-D4AD2EE0AEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72629DEC-016B-4612-87BD-D4AD2EE0AEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72629DEC-016B-4612-87BD-D4AD2EE0AEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77931D2-6F77-44E4-AE69-3FAA75CAFC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77931D2-6F77-44E4-AE69-3FAA75CAFC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77931D2-6F77-44E4-AE69-3FAA75CAFC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77931D2-6F77-44E4-AE69-3FAA75CAFC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7223EA25-DCDB-4CCF-A473-5D7A1FF82581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7223EA25-DCDB-4CCF-A473-5D7A1FF82581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7223EA25-DCDB-4CCF-A473-5D7A1FF82581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7223EA25-DCDB-4CCF-A473-5D7A1FF82581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

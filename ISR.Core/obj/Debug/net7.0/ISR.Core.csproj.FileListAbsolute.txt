@@ -1,0 +1,11 @@
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.AssemblyInfoInputs.cache
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.AssemblyInfo.cs
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.csproj.CoreCompileInputs.cache
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.deps.json
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.pdb
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\refint\ISR.Core.dll
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.pdb
+C:\Users\ol196\OneDrive\Documentos\Universidad\Octavo Semestre\Tecnologias web Multiplataforma\Parcial 1\ISR\ISR.Core\obj\Debug\net7.0\ref\ISR.Core.dll
